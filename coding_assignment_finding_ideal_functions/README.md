@@ -38,8 +38,8 @@ This project follows an **object-oriented** approach to:
 ```bash```
 Clone the repository using the following commands:
 
-git clone https://github.com/your-username/ideal-function-mapping.git
-cd ideal-function-mapping
+git clone https://github.com/arghavanas/programming_with_python_DLMDSPWP01.git
+cd programming_with_python_DLMDSPWP01/coding_assignment_finding_ideal_functions
 
 
 ### **2. Verify CSV Files**
