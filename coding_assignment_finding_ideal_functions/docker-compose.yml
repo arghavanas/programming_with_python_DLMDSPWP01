@@ -1,0 +1,11 @@
+
+services:
+  app:
+    build: .
+    container_name: ideal_function_mapper
+    volumes:
+      - ./data:/data             # Ensure data CSV files are accessible
+      - ./output:/output         # Persist visualization output
+    environment:
+      - DATA_PATH=/data
+      - OUTPUT_PATH=/output
